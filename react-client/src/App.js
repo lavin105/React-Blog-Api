@@ -9,6 +9,7 @@ class App extends Component {
         <header>
 
           <div id="banner">
+          <h1 id="my_blog">Brandon's Blog</h1>
 
           </div>
         </header>
